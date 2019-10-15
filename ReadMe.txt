@@ -9,3 +9,5 @@ The files included in this project are as follows:
 - Stability_Regions.m -> Code for visualizations of stability region
 - plotS.m             -> Code for plotting the stability regions
 - chebpoly ,1,2.m     -> Code with implementation of Chebyshev functions
+
+A PDF of final results is also included for anyone that is interested!
